@@ -7,7 +7,7 @@ Wednesday, June 07, 2017 (5:45 - 7:00 PM, Room 135-136)
 
 - Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
 - Workshop presentation slides: [Presentation Link](link.link){:target="_blank"}
-- Workshop documentation: [Documentation Link](link.link){:target="_blank"}
+- Workshop documentation: [Documentation Link](https://z.umn.edu/ASMS2017documentation){:target="_blank"}
 
 **Galaxy-P platform for multi-omics!**
 
