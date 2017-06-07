@@ -54,6 +54,6 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 
 <br>
 
-[Please provide us with your feedback](link.link){:target="_blank"}
+[Please provide us with your feedback](https://z.umn.edu/asms2017fb){:target="_blank"}
 
 
