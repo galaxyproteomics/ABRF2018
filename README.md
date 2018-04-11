@@ -1,6 +1,6 @@
 # ABRF2018
 
-[Workshop at ABRF 2016 SW2] (https://conf.abrf.org/sw2-galaxy-platform-accessible-core-laboratory-solution-proteogenomic-analysis-and-informatics)
+[Workshop at ABRF 2018 SW2] (https://conf.abrf.org/sw2-galaxy-platform-accessible-core-laboratory-solution-proteogenomic-analysis-and-informatics)
 
 **(SW2) The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
 **Sunday, April 22, 2018 (8:00am-12:00pm)**
