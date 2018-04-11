@@ -5,7 +5,7 @@
 **(SW2) The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
 **Sunday, April 22, 2018 (8:00am-12:00pm)**
 
-**Organizers**: Pratik Jagtap, University of Minnesota
+**Organizer**: Pratik Jagtap, University of Minnesota
 
 **Instructors**: Tim Griffin, Pratik Jagtap and Praveen Kumar
 
