@@ -1,59 +1,42 @@
-## **ASMS 2017 Workshop**
+# ABRF2018
 
-### **Galaxy-P in the Cloud: Proteomic Informatics on Jetstream**
-Wednesday, June 07, 2017 (5:45 - 7:00 PM, Room 135-136) 
+[Workshop at ABRF 2016 SW2] (https://conf.abrf.org/sw2-galaxy-platform-accessible-core-laboratory-solution-proteogenomic-analysis-and-informatics)
 
-**Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
+**(SW2) The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
+**Sunday, April 22, 2018 (8:00am-12:00pm)**
 
-- Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer)
-- Workshop presentation slides: [Presentation Link](https://z.umn.edu/ASMS2017presentation)
-- Workshop documentation: [Documentation Link](https://z.umn.edu/ASMS2017documentation)
+**Organizers**: Pratik Jagtap and Tim Griffin, University of Minnesota
 
-**Galaxy-P platform for multi-omics!**
+**Instructors**: Tim Griffin, Pratik Jagtap and Praveen Kumar
 
-#### ***Not just for genomics anymore: Galaxy for multi-omics analysis!!!*** 
-_Did you think that Galaxy is just for genomic data analysis? Not anymore. Come to this workshop to learn how Galaxy can be used for Mutli-omic data analysis (proteogenomic and metaproteomic) and also applications that cross the ‘omic domains. This hands-on workshop will guide participants through the essential steps for using Galaxy for the analysis of MS-based proteomics data, focusing on protein identification and more advanced multi-omic applications. Workflows from emerging applications integrating genomic and proteomic data (such as proteogenomics and metaproteomics) will also be demonstrated._
+This workshop 
 
-_In order to extend the reach of these workflows to the greater community, the Galaxy-P team has partnered with both the [JetStream cyberinfrastructure resource](http://jetstream-cloud.org/) and [Amazon Web Services](https://aws.amazon.com)_.  
+Workshop goals:
 
-**Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary_.
+- Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
+- Provide hands-on experience to attendees in using Galaxy
+- Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
+- Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data analysis needs (either specific to one domain or for multi-omics)
 
 
-**_Attendees are encouraged to bring a laptop computer to participate._**
-<br>
+Workshop Schedule:  Saturday February 20, 2016
+- *8:00am-8:15am*
+    Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
+- *8:15am-9:15am*
+    RNASeq Data Processing: Data Analysis using Galaxy platform. (Praveen Kumar)
+- *9:15 am – 10:00 am* 
+    Hands-on session for proteomics data analysis using Galaxy. (Tim Griffin)
+- *10:00 am – 10:30 am* 
+    Morning Refreshment Break
+- *10:30am – 12:00pm*
+    Identification of novel proteoforms and visualization. (Pratik Jagtap)
+- *12:00pm – 1:00pm*
+    Lunch
+    
+Workshop materials:
+- [Workshop documentation]()
+- Slides
 
-**Workshop goals:**
 
-_1. Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains._
-
-_2. Provide hands-on experience to attendees in using Galaxy._
-
-_3. Demonstrate use of Galaxy for a proteogenomic and metaproteomics analysis._
-
-_4. Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data analysis needs (either specific to one domain or for multi-omics)._
-
-**Workshop Schedule:**
-<br>
- _Wednesday, June 07, 2017 (5:45 pm - 7:00 pm, Room 135-136)_
- 
-- Introduction to the workshop and Galaxy-P overview (_Tim Griffin_)
- 
-- Introduction to JetStream. (_Jeremy Fischer_)
- 
-- Introduction to the instance and Proteogenomic Workflow (_Tim Griffin / Pratik Jagtap_)
- 
-- Introduction to Metaproteomic Workflow (_Pratik Jagtap_)
- 
-- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _Jeremy Fischer_)
-
-<br>
-
-\- Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway)
-
-\- Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway)
-
-<br>
-
-[Please provide us with your feedback](link.link)
-
+Please provide us with your Feedback! Thank you!
 
