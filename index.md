@@ -49,11 +49,3 @@ _Sunday April 22, 2018_
 [Please provide us with your feedback](https://z.umn.edu/asms2017fb){:target="_blank"}
 
 
-    
-Workshop materials:
-- [Workshop documentation]()
-- Slides
-
-
-Please provide us with your Feedback! Thank you!
-
