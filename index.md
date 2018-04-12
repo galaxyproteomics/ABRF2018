@@ -3,9 +3,9 @@
 ### **The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
 Sunday, April 22, 2018 (8:00am-12:00pm) 
 
-**Organizer**: Pratik Jagtap, University of Minnesota
+**_Organizer**: Pratik Jagtap, University of Minnesota_
 
-**Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar
+**_Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar_
 
 **Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary_.
 
@@ -24,25 +24,25 @@ Sunday, April 22, 2018 (8:00am-12:00pm)
 <br>
 _Sunday April 22, 2018_
  
-- *8:00am-8:15am*
+- **8:00am-8:15am**
     - Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
-- *8:15am-9:15am*
+- **8:15am-9:15am**
     - RNASeq Data Processing: Data Analysis using Galaxy platform. (Praveen Kumar)
-- *9:15 am – 10:00 am* 
+- **9:15 am – 10:00 am**
     - Hands-on session for proteomics data analysis using Galaxy. (Tim Griffin)
-- *10:00 am – 10:30 am* 
+- **10:00 am – 10:30 am** 
     - Morning Refreshment Break
-- *10:30am – 12:00pm*
+- **10:30am – 12:00pm**
     - Identification of novel proteoforms and visualization. (Pratik Jagtap)
-- *12:00pm – 1:00pm*
+- **12:00pm – 1:00pm**
     - Lunch
 
 <br>
 
 \- Accessing Proteogenomics Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
-
+<br>
 \- [Workshop documentation]()
-
+<br>
 \- [Slides](){:target="_blank"}
 
 
