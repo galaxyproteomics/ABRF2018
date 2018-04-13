@@ -1,6 +1,7 @@
 ## **ABRF 2018 Workshop**
 
 ### **The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
+<br>
 Sunday, April 22, 2018 (8:00am-12:00pm) 
 
 _**Organizer**: Pratik Jagtap, University of Minnesota_
