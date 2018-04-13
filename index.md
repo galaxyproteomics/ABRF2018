@@ -23,7 +23,6 @@ _**Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar_
 
 **Workshop Schedule:**
 
-_Sunday April 22, 2018_
  <br>
 - **8:00am-8:15am**
     - Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
