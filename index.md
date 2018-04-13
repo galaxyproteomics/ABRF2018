@@ -42,7 +42,7 @@ _Sunday April 22, 2018_
 
 \- Accessing Proteogenomics Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
 <br>
-\- [Workshop documentation]()
+\- [Workshop documentation](){:target="_blank"}
 <br>
 \- [Slides](){:target="_blank"}
 
