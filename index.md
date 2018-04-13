@@ -26,14 +26,19 @@ _**Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar_
  <br>
 - **8:00am-8:15am**
     - Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
+    
 - **8:15am-9:15am**
     - RNASeq Data Processing: Data Analysis using Galaxy platform. (Praveen Kumar)
+    
 - **9:15 am – 10:00 am**
-    - Hands-on session for proteomics data analysis using Galaxy. (Tim Griffin)
+    - Hands-on session for proteomics data analysis using Galaxy. (Timothy Griffin)
+    
 - **10:00 am – 10:30 am** 
     - Morning Refreshment Break
+    
 - **10:30am – 12:00pm**
     - Identification of novel proteoforms and visualization. (Pratik Jagtap)
+    
 - **12:00pm – 1:00pm**
     - Lunch
 
