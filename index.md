@@ -1,4 +1,4 @@
-# ABRF2018
+# ABRF 2018
 
 **(SW2) The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
 
