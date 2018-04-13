@@ -1,9 +1,9 @@
 ## **ABRF 2018 Workshop**
 
 ### **The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
-<br>
-Sunday, April 22, 2018 (8:00am-12:00pm) 
 
+Sunday, April 22, 2018 (8:00am-12:00pm) 
+<br>
 _**Organizer**: Pratik Jagtap, University of Minnesota_
 
 _**Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar_
@@ -22,9 +22,9 @@ _**Instructors:**  Tim Griffin, Pratik Jagtap and Praveen Kumar_
 - Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data analysis needs (either specific to one domain or for multi-omics)
 
 **Workshop Schedule:**
-<br>
+
 _Sunday April 22, 2018_
- 
+ <br>
 - **8:00am-8:15am**
     - Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
 - **8:15am-9:15am**
@@ -47,6 +47,6 @@ _Sunday April 22, 2018_
 \- [Slides](){:target="_blank"}
 
 
-[Please provide us with your feedback](https://z.umn.edu/asms2017fb){:target="_blank"}
+[Please provide us with your feedback](){:target="_blank"}
 
 
